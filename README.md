@@ -66,17 +66,17 @@ The codebase is developed based on [lucidrains/denoising-diffusion-pytorch](http
 If you find this repository useful, please consider giving a star 🌟 and citing the paper:
 
 ```bibtex
-@inproceedings{li2024pasta,
-    title={PASTA: Pathology-Aware MRI to PET Cross-Modal Translation with Diffusion Models},
-    author={Li, Yitong and Yakushev, Igor and Hedderich, Dennis M and Wachinger, Christian},
-    eprint={2405.16942},
-    archivePrefix={arXiv},
-    primaryClass={eess.IV};
-    year={2024}
+@InProceedings{Li2024pasta,
+    author="Li, Yitong
+    and Yakushev, Igor
+    and Hedderich, Dennis M.
+    and Wachinger, Christian",
+    title="PASTA: Pathology-Aware MRI to PET Cross-Modal Translation with Diffusion Models",
+    booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024",
+    year="2024",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="529--540",
+    isbn="978-3-031-72104-5"
 }
-```
-
-MICCAI 2024 proceedings:
-```bibtex
-Coming soon
 ```
