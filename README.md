@@ -1,6 +1,6 @@
 # Pathology-Aware MRI to PET Cross-modal Translation with Diffusion Models
-Official Pytorch Implementation of Paper - 🍝 PASTA: Pathology-Aware MRI to PET Cross-modal Translation with Diffusion Models
-[Arxiv](https://arxiv.org/abs/2405.16942)
+Official Pytorch Implementation of Paper - 🍝 [PASTA: Pathology-Aware MRI to PET Cross-modal Translation with Diffusion Models](https://arxiv.org/abs/2405.16942)
+
 [![Conference Paper](https://img.shields.io/static/v1?label=DOI&message=10.1007%2f978-3-031-34048-2_51&color=3a7ebb)](https://doi.org/10.1007/978-3-031-72104-5_51)
 [![Preprint](https://img.shields.io/badge/arXiv-2303.07717-b31b1b)](https://arxiv.org/abs/2405.16942)
 
