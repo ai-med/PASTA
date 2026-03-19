@@ -1,9 +1,38 @@
 # Pathology-Aware MRI to PET Cross-modal Translation with Diffusion Models
-Official Pytorch Implementation of Paper - 🍝 [PASTA: Pathology-Aware MRI to PET Cross-modal Translation with Diffusion Models](https://arxiv.org/abs/2405.16942)
 
+[![Journal Paper](https://img.shields.io/static/v1?label=DOI&message=10.1016%2fj.media.2026.104035&color=3a7ebb)](https://doi.org/10.1016/j.media.2026.104035)
 [![Conference Paper](https://img.shields.io/static/v1?label=DOI&message=10.1007%2f978-3-031-34048-2_51&color=3a7ebb)](https://doi.org/10.1007/978-3-031-72104-5_51)
 [![Preprint](https://img.shields.io/badge/arXiv-2405.16942-b31b1b)](https://arxiv.org/abs/2405.16942)
 
+This repository contains the code to the paper "Translating MRI to PET through Conditional Diffusion Models with Enhanced Pathology Awareness"
+```
+@article{li2026translating,
+  title={Translating MRI to PET through Conditional Diffusion Models with Enhanced Pathology Awareness},
+  author={Li, Yitong and Yakushev, Igor and Hedderich, Dennis M and Wachinger, Christian},
+  journal={Medical Image Analysis},
+  pages={104035},
+  year={2026},
+  publisher={Elsevier}
+}
+```
+and the paper 🍝 [PASTA: Pathology-Aware MRI to PET Cross-modal Translation with Diffusion Models](https://arxiv.org/abs/2405.16942)
+```
+@InProceedings{Li2024pasta,
+    author="Li, Yitong
+    and Yakushev, Igor
+    and Hedderich, Dennis M.
+    and Wachinger, Christian",
+    title="PASTA: Pathology-Aware MRI to PET Cross-Modal Translation with Diffusion Models",
+    booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024",
+    year="2024",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="529--540",
+    isbn="978-3-031-72104-5"
+}
+```
+
+🎉 PASTA's journal extension has been accepted by [Medical Image Analysis](https://doi.org/10.1016/j.media.2026.104035) (IF: 11.8)!
 🎉 PASTA has been early-accepted at [MICCAI 2024](https://conferences.miccai.org/2024/en/) (top 11%)!
 
 <p align="center">
@@ -67,7 +96,16 @@ For any questions, please contact: Yitong Li (yi_tong.li@tum.de)
 The codebase is developed based on [lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) and [openai/guided-diffusion](https://github.com/openai/guided-diffusion).
 
 If you find this repository useful, please consider giving a star 🌟 and citing the paper:
-
+```bibtex
+@article{li2026translating,
+  title={Translating MRI to PET through Conditional Diffusion Models with Enhanced Pathology Awareness},
+  author={Li, Yitong and Yakushev, Igor and Hedderich, Dennis M and Wachinger, Christian},
+  journal={Medical Image Analysis},
+  pages={104035},
+  year={2026},
+  publisher={Elsevier}
+}
+```
 ```bibtex
 @InProceedings{Li2024pasta,
     author="Li, Yitong
