@@ -6,9 +6,9 @@
 
 This repository contains the code to the paper 
 
-[Translating MRI to PET through Conditional Diffusion Models with Enhanced Pathology Awareness](https://doi.org/10.1016/j.media.2026.104035) (in Medical Image Analysis)
+[Translating MRI to PET through Conditional Diffusion Models with Enhanced Pathology Awareness](https://doi.org/10.1016/j.media.2026.104035) (in Medical Image Analysis) and
 
-and the paper 🍝 [PASTA: Pathology-Aware MRI to PET Cross-modal Translation with Diffusion Models](https://arxiv.org/abs/2405.16942) (in MICCAI 2024)
+🍝 [PASTA: Pathology-Aware MRI to PET Cross-modal Translation with Diffusion Models](https://arxiv.org/abs/2405.16942) (in MICCAI 2024)
 
 ### News
 🎉 PASTA's journal extension has been accepted by [Medical Image Analysis](https://doi.org/10.1016/j.media.2026.104035) (IF: 11.8)!
